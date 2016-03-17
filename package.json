@@ -27,7 +27,7 @@
     "phantomjs": "^1.9.16"
   },
   "files": [
-    "simulant.js",
+    "dist",
     "README.md"
   ]
 }
