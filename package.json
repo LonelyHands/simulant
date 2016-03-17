@@ -1,7 +1,6 @@
 {
   "name": "simulant",
   "description": "Simulated DOM events for automated testing",
-  "version": "0.1.4",
   "author": {
     "name": "Rich Harris"
   },
