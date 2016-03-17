@@ -6,7 +6,7 @@
     "name": "Rich Harris"
   },
   "license": "MIT",
-  "repository": "https://github.com/Rich-Harris/simulant",
+  "repository": "https://github.com/LonelyHands/simulant#.V.0.1.4",
   "main": "dist/simulant.js",
   "jsnext:main": "src/simulant.js",
   "scripts": {
